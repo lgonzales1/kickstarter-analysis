@@ -28,11 +28,13 @@ As I have used pivot tables in the past, this task did not face outstanding chal
 ## Results
 
 * What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Campaigns launched in May (and early summer months) were by far the most successful. In contrast, December was the least successful. From 2009 to 2017, May campaigns were    three times more likely to be successful than campaigns launched in December. Summer months in general have the most campaigns launched and most campaigns launched        successfully. 
 
 Further, the number of cancelled campaigns is not corelated to the month for which they are launched. On average, canceled campaigns average 3.36 per month with a standard deviation of 1.43 indicating the means data are clustered around the mean. 
 
 * What can you conclude about the Outcomes based on Goals?
+
 Play campaigns with fundraising goals below $1000 have the highest likelihood of being successful. After a campaign surpasses $5000, the likelihood for a successful play campaign continuously decreases. 
 
 That said, there a campaign has a goal of $35000 to $44999, the campaign has a staggering 67% percentage of successful campaigns. If you look at the data $0 to $34999, the data is pretty linear, indicating that projects within this budget should keep below $5000 for a higher probability for success. As the goal continues to surpass $5000, the liklihood of success decreases. For the intervals $35000 to $50000+, the data suggests the same. For most successful play campaigns, campaign organizers should set a goal between $35000 and $44999 for a higher liklihood of successful campaigns. If they go above $44999, their campaign is less likely to be successful. 
@@ -40,7 +42,9 @@ That said, there a campaign has a goal of $35000 to $44999, the campaign has a s
 The two linear patterns found within the analyzed data suggests that campaign organizers should group their campaigns into low or high goal ranges. Campaign organizers should, in general, keep their goals to under $1000 for the most successful campaigns. If they have a larger scale project, the campaign organizers should set a goal between $35000 and $44999 for a higher likelihood of success. 
 
 * What are some limitations of this dataset?
+
 Within this data set, it would have been helpful to know how much the campaign needed to raise along with how much funding they already had prior to starting the campaign. This would have been helpful to determine if some of the reasons these campaigns failed was due to fear of investors if the campaign does not have any money to begin work. 
 
 * What are some other possible tables and/or graphs that we could create?
+
 As we look at this data more, I am interested in determining if the average donation or number of backers affected the outcome of the campaign. Additionally, I'd also like to look at the average lengths for the campaigns to see if this correlates to an outcome. Many of the campaigns received significant funding but ultimately failed. Further analysis can potentially identify any tips for campaign starters to set appropriate strategy for their campaigns.
